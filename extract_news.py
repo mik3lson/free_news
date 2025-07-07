@@ -144,13 +144,15 @@ def extract_article_content(driver, url):
 
 def main():
     if len(sys.argv) < 2:
-        print('Usage: python extract_news.py <news_url> [--use-existing-session]')
+        print('Usage: python extract_news.py <news_url> [--use-existing-session] [-wp]')
         print('To use existing Chrome session, first start Chrome with:')
         print('chrome --remote-debugging-port=9222')
+        print('Use -wp flag for Washington Post articles')
         sys.exit(1)
     
     url = sys.argv[1]
     use_existing_session = '--use-existing-session' in sys.argv
+    is_washington_post = '-wp' in sys.argv
     
     if use_existing_session:
         print("Connecting to existing Chrome session...")
@@ -177,6 +179,20 @@ def main():
         
         print(f"Article text written to news.txt ({len(text)} characters)")
         print(f"Full HTML written to site.html ({len(full_html)} characters)")
+        
+        # If it's a Washington Post article, also run the WP extractor
+        if is_washington_post:
+            print("Running Washington Post specific extractor...")
+            import subprocess
+            try:
+                result = subprocess.run(['python', 'wp.py', 'site.html'], 
+                                      capture_output=True, text=True, timeout=30)
+                if result.returncode == 0:
+                    print("Washington Post content extracted successfully")
+                else:
+                    print(f"WP extractor failed: {result.stderr}")
+            except Exception as e:
+                print(f"Error running WP extractor: {e}")
         
     except Exception as e:
         print(f"Error: {e}")

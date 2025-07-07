@@ -1,13 +1,55 @@
-Accessibility statement
-Skip to main content
-Sign in
-The Washington Post’s essential guide to tech policy news
-Subscribe to the newsletter
-In dramatic reversal, Senate votes to kill AI-law moratorium
-July 1, 2025
-7 min
-0
-By Will Oremus
-with research by Andrea Jiménez
-We and our third-party partners process personal data including through the use of cookies, pixels, and other tracking technologies to provide, analyze, and improve our services; personalize your experience (including content); and personalize ads on and off the services. Learn more and manage your preferences at our Privacy Policy.
-I understand
+What are your thoughts on the Senate's decision to implement a five-year pause on state AI regulations as part of the tax and immigration bill?
+
+Happy Tuesday! Hope you slept more than your senators did last night. Send news tips and coffee to: <a href=
+
+In dramatic reversal, Senate votes to kill AI-law moratorium.
+
+In the predawn hours Tuesday, the U.S. Senate voted 99-1 to strip from the sprawling tax and immigration bill a provision that would have blocked states from regulating artificial intelligence for the next decade.
+
+The provisions resounding defeat came after Sen. Marsha Blackburn (R-Tennessee) backed out of a compromise she had previously struck with Sen. Ted Cruz (R-Texas) that would have reduced the pause to five years from the original 10 and exempted some categories of AI regulations. Cruz, who had championed the moratorium, ended up joining Blackburn in voting against it, along with all of their colleagues except for Sen. Thom Tillis (R-North Carolina).
+
+The vote on the AI moratorium came after 4 a.m. Tuesday as part of a <a href=
+
+It left the Republican-led, industry-backed push to roll back state AI laws on life support as voting continued on the broader bill.
+
+Republican leaders and tech trade groups have pitched the multiyear freeze on state regulations as necessary to pave the way for U.S. AI firms to innovate and outcompete their Chinese counterparts. Last month, the House of Representatives passed a version of the tax and immigration bill that included a 10-year ban on states passing or enforcing regulations on AI.
+
+The measure, which would have rolled back dozens of laws already on the books in states around the country and left the industry essentially unregulated, drew intense pushback from Democratic leaders, advocates and <a href=
+
+In the Senate, Cruz led a behind-the-scenes effort to rework the provision to comply with procedural restrictions and gain the support of what figured to be a small handful of Republican holdouts, including Blackburn.
+
+That push appeared to have paid off when Cruz and Blackburn announced on Sunday that they had reached agreement on a revised version of the moratorium that would have pared it back to a five-year pause and exempted some categories of AI regulations.
+
+Those carveouts would have allowed states to continue enforcing and passing laws related to kids online safety, child sexual abuse material and personal publicity rights  causes that Blackburn has championed.
+
+Blackburns home state of Tennessee, for example, could have still enforced the Elvis Act, which aims to protect musicians from impostors using AI voice-cloning tools. But states such as New York, which recently passed an <a href=
+
+The changes in that compromise effort did little to assuage the provisions other opponents, who pointed to language they said left it unclear just what kinds of AI laws states could and could not pass.
+
+The way these provisions are written, theyre very sweeping, and they would trip up almost any attempt to regulate the harmful use of AI, said Ed Wytkind, interim director of the AFL-CIOs technology institute, on Monday.
+
+The labor group was among those urging senators to vote against the compromise Monday. So were advocates of online child safety laws, which Blackburn has made a top legislative priority, and some influential conservatives who favor tougher regulations on tech giants.
+
+On Monday evening, Blackburn announced she no longer supported the compromise and would instead propose an amendment to remove the AI-law moratorium altogether.
+
+While I appreciate Chairman Cruzs efforts to find acceptable language that allows states to protect their citizens from the abuses of AI, the current language is not acceptable to those who need these protections the most, Blackburn told the Tech Brief in a statement Monday night. Until Congress passes federally preemptive legislation like the Kids Online Safety Act and an online privacy framework, we cant block states from making laws that protect their citizens.
+
+With the moratorium also facing opposition from a few other Republicans and the entire Democratic caucus, Blackburn introduced an amendment to remove it on Tuesday morning that ultimately gained the support of everyone but Tillis, who was voting against every amendment to the bill.
+
+Opponents of the moratorium cheered the outcome Tuesday.
+
+The Senate came together tonight to say that we can't just run over good state consumer protection laws, said Sen. Maria Cantwell (D-Washington). States can fight robocalls, deepfakes and provide safe autonomous vehicle laws. This also allows us to work together nationally to provide a new federal framework on artificial intelligence that accelerates U.S. leadership in AI while still protecting consumers.
+
+Among those taking a victory lap Tuesday was Mike Davis, founder of the Article III project, a conservative judicial advocacy group, who opposed the moratorium.
+
+Google and Meta had AI amnesty in the bag yesterday at 10 am., Davis told the Tech Brief. Then the Article III Project and Steve Bannons War Room sprang into action. Sometimes feeling the heat makes people see the light. We are pleased 99 senators finally decided to side with kids and content creators over AI amnesty and Big Tech profits.
+
+Brad Carson, president of the nonprofit Americans for Responsible Innovation, said Tuesday that he hoped the landslide vote would end the push for a moratorium for good.
+
+It threatened to strike so many laws important to voters that it mobilized policymakers, advocates, and people from across the country, he said. Let this be a lesson to Congress  freezing state AI laws without a serious replacement is a political nonstarter.
+
+Katie McAuliffe joins FCC Chairman Brendan Carrs office as policy adviser. McAuliffe served as director of telecommunication policy at the Information Technology Industry Council.
+
+Dan Rogers joins Asana, the work management platform, as the Chief Executive Officer. Rogers previously served as CEO at LaunchDarkly.
+
+Thats all for today  thank you so much for joining us! Make sure to tell others to subscribe to the <a href=

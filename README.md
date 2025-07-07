@@ -1,4 +1,4 @@
-# 📰 Free News Extractor
+# 📰 Free News Extractor, Pay Wall Bypass
 
 A Python-based web scraping tool designed to extract news article content from various news websites, with special optimization for The Washington Post.
 

@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/free_news.git
+   git clone https://github.com/aditya-am-murthy/free_news.git
    cd free_news
    ```
 
